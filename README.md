@@ -1,13 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sattva Doshi</h1>
 <h3 align="center">A passionate Developer, Keen to learn new Tech Stacks</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sattvadoshi" alt="sattvadoshi" /></a> </p>
-
 - 🔭 I’m currently Studing **B.tech in Information Technology**
 
-- 🌱 I’m currently learning **Next.js**
-
-- 👯 I’m looking to collaborate on **MERN Stack Development**
+- 👯 I’m looking to collaborate on **Full Stack Development**
 
 - 👨‍💻 All of my projects are available at [https://sattva-doshi.vercel.app/](https://sattva-doshi.vercel.app/)
 
@@ -57,4 +53,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=SattvaDoshi&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sattvadoshi" alt="sattvadoshi" /></a> </p>
+
+
