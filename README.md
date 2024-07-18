@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sattva Doshi</h1>
 <h3 align="center">A passionate Developer, Keen to learn new Tech Stacks</h3>
----
-[![](https://visitcount.itsvg.in/api?id=SattvaDoshi&icon=0&color=0)](https://visitcount.itsvg.in)
-
 
 - 👨‍💻 All of my projects are available at [https://sattva-doshi.vercel.app/](https://sattva-doshi.vercel.app/)
 
