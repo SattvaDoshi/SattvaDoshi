@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **sattvadoshi103@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/10k28Uo4d41p6CaTURJ5l2o3ETrXVCYlh/view?usp=drive_link](https://drive.google.com/file/d/10k28Uo4d41p6CaTURJ5l2o3ETrXVCYlh/view?usp=drive_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/11U6iBb_opOGH3zG3Tqk8TKsco9we6xzb/view?usp=drive_link)
 
 # Connect with me
 <p align="left">
