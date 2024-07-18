@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sattva Doshi</h1>
 <h3 align="center">A passionate Developer, Keen to learn new Tech Stacks</h3>
+---
+[![](https://visitcount.itsvg.in/api?id=SattvaDoshi&icon=0&color=0)](https://visitcount.itsvg.in)
 
-- 🔭 I’m currently Studing **B.tech in Information Technology**
-
-- 👯 I’m looking to collaborate on **Full Stack Development**
 
 - 👨‍💻 All of my projects are available at [https://sattva-doshi.vercel.app/](https://sattva-doshi.vercel.app/)
 
@@ -11,15 +10,14 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/10k28Uo4d41p6CaTURJ5l2o3ETrXVCYlh/view?usp=drive_link](https://drive.google.com/file/d/10k28Uo4d41p6CaTURJ5l2o3ETrXVCYlh/view?usp=drive_link)
 
-- ⚡ Fun fact **I can Manage Development and DSA**
-
-<h3 align="left">Connect with me:</h3>
+# Connect with me
 <p align="left">
 <a href="https://twitter.com/sattva_doshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sattva_doshi" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/sattva-doshi-37b0851bb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sattva-doshi-37b0851bb/" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/__sattva__10/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/__sattva__10/" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sattvadoshi103" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sattvadoshi103" height="30" width="40" /></a>
 </p>
+<br/>
 
 
 # 📊 GitHub Stats:
@@ -50,9 +48,6 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=SattvaDoshi&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=SattvaDoshi&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sattvadoshi" alt="sattvadoshi" /></a> </p>
 
 
