@@ -7,7 +7,7 @@
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/11U6iBb_opOGH3zG3Tqk8TKsco9we6xzb/view?usp=drive_link)
 
-# Connect with me
+# Let's connect 
 <p align="left">
 <a href="https://twitter.com/sattva_doshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sattva_doshi" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/sattva-doshi-37b0851bb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sattva-doshi-37b0851bb/" height="30" width="40" /></a>
