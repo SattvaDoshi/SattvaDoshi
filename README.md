@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sattva Doshi</h1>
 <h3 align="center">A passionate Developer, Keen to learn new Tech Stacks</h3>
 
-- 👨‍💻 All of my projects are available at [https://sattva-doshi.vercel.app/](https://sattva-doshi.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://sattvadoshi.vercel.app/](https://sattvadoshi.vercel.app/)
 
 - 📫 How to reach me **sattvadoshi103@gmail.com**
 
