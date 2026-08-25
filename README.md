@@ -1,28 +1,54 @@
-<h1 align="center">Hi 👋, I'm Sattva Doshi</h1>
-<h3 align="center">A passionate Developer, Keen to learn new Tech Stacks</h3>
+<div align="center">
 
-- 👨‍💻 All of my projects are available at [https://sattvadoshi.vercel.app/](https://sattvadoshi.vercel.app/)
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Sattva+Doshi+%F0%9F%91%8B;Full-Stack+Developer;Backend+%26+Cloud+Infra+Enthusiast;Always+learning+new+tech+stacks" alt="Typing SVG" />
+</a>
 
-- 📫 How to reach me **sattvadoshi103@gmail.com**
+</div>
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/12jki4KdkqvR5vYt5gxKXNiVi8UJgBMLw/view?usp=drivesdk)
-
-# Let's connect 
-<p align="left">
-<a href="https://twitter.com/sattva_doshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sattva_doshi" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sattva-doshi-37b0851bb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sattva-doshi-37b0851bb/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/__sattva__10/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/__sattva__10/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sattvadoshi103" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sattvadoshi103" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SattvaDoshi&style=flat-square&color=61DAFB" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/SattvaDoshi?label=Followers&style=flat-square&color=61DAFB" alt="Followers" />
 </p>
+
+### 🚀 About Me
+
+- 👨‍💻 All of my projects are available at **[sattvadoshi.vercel.app](https://sattvadoshi.vercel.app/)**
+- 📫 Reach me at **sattvadoshi103@gmail.com**
+- 📄 Check out my **[Resume](https://drive.google.com/file/d/12jki4KdkqvR5vYt5gxKXNiVi8UJgBMLw/view?usp=drivesdk)**
+- 🌱 Currently exploring cloud infrastructure, backend systems, and quantitative tooling
+
 <br/>
 
+### 🔗 Let's Connect
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SattvaDoshi&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=SattvaDoshi&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SattvaDoshi&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<p align="left">
+<a href="https://twitter.com/sattva_doshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sattva_doshi" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sattva-doshi-37b0851bb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sattva Doshi" height="30" width="40" /></a>
+<a href="https://www.instagram.com/__sattva__10/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__sattva__10" height="30" width="40" /></a>
+<a href="https://leetcode.com/sattvadoshi103" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sattvadoshi103" height="30" width="40" /></a>
+</p>
 
-# 🛠️ Tech Arsenal
+<br/>
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=SattvaDoshi&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=SattvaDoshi&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=SattvaDoshi&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-trophies.vercel.app/?username=SattvaDoshi&theme=radical&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+</p>
+
+<br/>
+
+### 🛠️ Tech Arsenal
 
 | 🖥️ Languages | 🌐 Web Tech | 📱 Mobile | ☁️ Cloud | 🗄️ Databases | 🔧 Tools | 🧠 AI/ML |
 |:------------:|:-----------:|:---------:|:--------:|:-------------:|:--------:|:--------:|
@@ -38,13 +64,8 @@
 |  | ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=flat-square&logo=mui&logoColor=white) |  |  |  | ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=flat-square&logo=eslint&logoColor=white) |  |
 |  | ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat-square&logo=socket.io&badgeColor=010101) |  |  |  | ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=flat-square&logo=babel&logoColor=black) |  |
 
+<br/>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=SattvaDoshi&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-
-
-
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=61DAFB&height=100&section=footer" />
+</div>
