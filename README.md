@@ -6,11 +6,6 @@
 
 </div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SattvaDoshi&style=flat-square&color=61DAFB" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/SattvaDoshi?label=Followers&style=flat-square&color=61DAFB" alt="Followers" />
-</p>
-
 ### 🚀 About Me
 
 - 👨‍💻 All of my projects are available at **[sattvadoshi.vercel.app](https://sattvadoshi.vercel.app/)**
